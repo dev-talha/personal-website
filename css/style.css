@@ -81,7 +81,7 @@ p {
 
 .hero-section,
 .testimonial-section {
-   background-image: url("img/background/header-bg.png");
+   background-image: url("../img/background/header-bg.png");
    background-size: cover;
    background-repeat: no-repeat;
 }
@@ -90,7 +90,7 @@ p {
    color: #ec4c7a;
 }
 .biography-section {
-   background-image: url("img/background/biography-bg.png");
+   background-image: url("../img/background/biography-bg.png");
    background-size: cover;
    background-repeat: no-repeat;
 }
